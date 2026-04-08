@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Wheelie Bike",
+    "name": "Wheelie Bike",
+    "description": "wheelie bike game",
+    "file": "wheeliebike.html",
+    "icon": "🚴",
+    "tags": ["arcade", "action", "racing", "skill"]
+  },
+  {
+    "id": "Five Nights at Epsteins",
+    "name": "Five Nights at Epstein's",
+    "description": "survive five nights at Epstein's",
+    "file": "fnae.html",
+    "icon": "😰",
+    "tags": ["horror", "scary", "survival", "strategy"]
+  }
+]
